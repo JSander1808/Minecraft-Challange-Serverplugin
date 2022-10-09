@@ -1,0 +1,12 @@
+name: ServerPlugin
+version: '${project.version}'
+main: de.rembel.plugin.main.Main
+api-version: 1.19
+
+commands:
+   games:
+   lobby:
+   timer:
+   reset:
+   update:
+   settings:
